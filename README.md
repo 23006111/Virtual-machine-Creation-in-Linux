@@ -9,7 +9,7 @@
  
  
  ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+  To Install Virtualbox / VMware Workstation with different flavours of linux.
        
  ## PROBLEM STATEMENT
    The aim of this expriment is to Create a virtual machine (VM) in Linux to run a environment for testing and development purposes.
